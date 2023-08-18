@@ -1,0 +1,34 @@
+Column Type	Wine type	All wines	Better	Worse	better (no outliers)	Worse (no outliers)	Comparison Type
+Column	fixed acidity	8.347179	8.474035	8.142204	8.283975	8.019777	Mean
+Column	free sulfur dioxide	15.711599	15.272515	16.567204	14.78303	15.756983	Mean
+Column	total sulfur dioxide	40.869906	39.352047	54.645161	38.097708	49.423581	Mean
+Column	alcohol	10.629519	10.855029	9.926478	10.792483	9.919304	Mean
+Others	volatile acidity	0.497484	0.474146	0.589503	0.47391	0.575111	Mean
+Others	citric acid	0.273824	0.299883	0.237755	0.297921	0.237626	Mean
+Others	residual sugar	2.477194	2.535965	2.54207	2.188239	2.171851	Mean
+Others	chlorides	0.084956	0.082661	0.092989	0.076687	0.081406	Mean
+Others	density	0.996615	0.996467	0.997068	0.996511	0.996995	Mean
+Others	pH	3.318072	3.310643	3.311653	3.307103	3.310444	Mean
+Others	sulphates	0.675329	0.69262	0.618535	0.674488	0.59067	Mean
+Column	fixed acidity	1.797849	1.862795	1.572396	1.624334	1.353017	Standard Deviations
+Column	free sulfur dioxide	9.940911	10.038538	10.890291	9.013081	9.38409	Standard Deviations
+Column	total sulfur dioxide	25.03825	27.25328	36.720468	22.768608	30.706863	Standard Deviations
+Column	alcohol	1.049639	1.106109	0.758007	1.044731	0.735613	Standard Deviations
+Others	volatile acidity	0.160962	0.161999	0.177956	0.16015	0.155742	Standard Deviations
+Others	citric acid	0.195108	0.199889	0.183368	0.16015	0.180283	Standard Deviations
+Others	residual sugar	1.441576	1.424835	1.39355	0.444524	0.450119	Standard Deviations
+Others	chlorides	0.039563	0.037258	0.055781	0.014926	0.014415	Standard Deviations
+Others	density	0.002	0.002067	0.001598	0.001774	0.001478	Standard Deviations
+Others	pH	0.153995	0.154554	0.154296	0.001774	0.143259	Standard Deviations
+Others	sulphates	0.15865	0.155558	0.176194	0.119033	0.10614	Standard Deviations
+Column	fixed acidity	3.23226	3.470004	2.472429	2.638462	1.830654	Variance
+Column	free sulfur dioxide	98.821718	100.772253	118.598438	81.235634	88.06114	Variance
+Column	total sulfur dioxide	626.913975	742.741258	1348.392763	518.409524	942.911426	Variance
+Column	alcohol	1.101742	1.223478	0.574574	518.409524	0.541126	Variance
+Others	volatile acidity	0.025909	0.026244	0.031668	0.025648	0.024256	Variance
+Others	citric acid	0.038067	0.039955	0.033624	0.039823	0.032502	Variance
+Others	residual sugar	2.078141	2.030154	1.941983	0.197602	0.202607	Variance
+Others	chlorides	0.001565	0.001388	0.003112	0.000223	0.000208	Variance
+Others	density	0.000004	0.000004	0.000003	0.000003	0.000002	Variance
+Others	pH	0.023714	0.023887	0.023807	0.018928	0.020523	Variance
+Others	sulphates	0.02517	0.024198	0.031044	0.014169	0.011266	Variance
