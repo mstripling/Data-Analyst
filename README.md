@@ -13,8 +13,9 @@ This portfolio is a testament to my passion for data analysis and my commitment 
   - **Storytelling:** Beyond the code and visuals, each analysis tells a story, answering pertinent questions, and suggesting actionable insights.
 
 ## Navigating the Repository
-
-  Notebooks complemented with Tableau dashboards are clearly marked. Feel free to interact with the visuals and delve into the analysis.
+  Look for files that end in ".ipynb" and open them to the analysis.
+  
+  Notebooks that are complemented with Tableau dashboards are clearly marked. Feel free to interact with the visuals and delve into the analysis.
 
   For each notebook, I've provided a brief description, guiding you through the analysis and highlighting the main takeaways.
 
