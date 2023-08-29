@@ -1,4 +1,4 @@
-# Analysis Summary:
+# Analysis Summary
 If you would like to see this data visualized, [it is available here](https://public.tableau.com/app/profile/miles.stripling/viz/SQL_16831435735630/Sheet2).
 
 While exploring some datasets, I stumbled upon this intriguing collection of information related to energy outages. Without any accompanying documentation, I embarked on a journey to unravel its secrets. Here's a glimpse of what I've inferred:
