@@ -27,4 +27,3 @@ I'm always eager to take on new challenges and to collaborate with fellow data e
   
   [Tableau](https://public.tableau.com/app/profile/miles.stripling?authMode=activationSuccess)
 
-  miles.stripling@gmail.com
