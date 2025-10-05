@@ -35,6 +35,5 @@ I'm always eager to take on new challenges and to collaborate with fellow data e
   
   [Tableau](https://public.tableau.com/app/profile/miles.stripling?authMode=activationSuccess)
 
-  Email: miles.stripling@gmail.com
 
 Thank you for exploring my repository. Feedback is always welcome, and I'm looking forward to any opportunities to further hone my skills.
